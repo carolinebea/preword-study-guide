@@ -5,7 +5,7 @@ she's a study guide
 
 ## Description
 
-This prework study guide was created for boot camo students who were going through the prework. It contains notes on HTML, CSS, Git, and JavaScript.
+This prework study guide was created for boot camp students doing pre-work.
 
 ## Installation
 
@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-Basically just use this as a study guide. If there's a topic you want to explore, find it on the page and devour my delicious notes
+Study guide page
 
 
 ## Credits
